@@ -8,7 +8,7 @@ Follow these steps to set up and run the application:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/stackednerds/dvla-LLM-GUARD.git
+git clone https://github.com/stackednerds/dvla-without-LLM-GUARD.git
 ```
 
 ### 2. Navigate to the Project Directory
